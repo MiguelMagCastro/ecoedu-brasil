@@ -8,7 +8,6 @@
 ---
 
 ## 🧍 Persona 1 - Ana Clara (aluna do ensino fundamental)
-**Responsável:** Miguel Freire  
 
 **Idade:** 11 anos  
 **Série:** 6º ano do ensino fundamental  
@@ -31,7 +30,6 @@
 ---
 
 ## 🧑‍🏫 Persona 2 - Professor João (educador de ciências)
-**Responsável:** Mateus Freire  
 
 **Idade:** 38 anos  
 **Profissão:** Professor de Ciências e Biologia  
@@ -54,7 +52,6 @@
 ---
 
 ## 👨‍👩‍👧 Persona 3 - Carla Santos (mãe de aluno e agente comunitária)
-**Responsável:** Gabriel Santiago  
 
 **Idade:** 34 anos  
 **Profissão:** Agente comunitária de saúde  
