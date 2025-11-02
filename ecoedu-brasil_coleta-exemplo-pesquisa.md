@@ -7,9 +7,8 @@
 ---
 
 ## 0. Consentimento (ler antes de aplicar)
-> Olá! Esta pesquisa faz parte de um projeto acadêmico para criação de uma plataforma educativa sobre queimadas. A participação é voluntária, suas respostas serão usadas apenas para fins de pesquisa e poderão ser citadas anonimamente no relatório. Você pode interromper a qualquer momento. Autorizo o uso das minhas respostas de forma anônima: **( ) Sim**  **( ) Não**
+> Olá! Esta pesquisa faz parte de um projeto acadêmico para criação de uma plataforma educativa sobre queimadas. A participação é voluntária, suas respostas serão usadas apenas para fins de pesquisa e poderão ser citadas anonimamente no relatório. Você pode interromper a qualquer momento. Ao concluir a pesquisa, autorizo o uso das minhas respostas de forma anônima.
 
-Se “Não”, agradecer e encerrar.
 
 ---
 
