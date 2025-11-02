@@ -26,8 +26,9 @@
 | O que ela **vê** | O que ela **ouve** | O que ela **pensa e sente** | O que ela **fala e faz** |
 |------------------|-------------------|-----------------------------|--------------------------|
 | Vídeos curtos e coloridos na internet sobre sustentabilidade. | Professores e pais falando sobre o aumento das queimadas no Brasil. | Quer fazer parte de algo que ajude o meio ambiente. Sente-se impotente quando vê notícias sobre destruição. | Fala com os colegas sobre reciclagem e compartilha vídeos sobre o tema nas redes sociais. |
+---
 
-
+|------------------|-------------------|
 | **Dores:** sente que o conteúdo escolar é pouco prático. | **Necessidades:** aprender brincando e se sentir útil. |
 
 ---
